@@ -2,7 +2,8 @@ Testing pdf generation with pdfkit in Javascript
 ================================================
 Testing PDF generation with pdfkit in Javascript.
 
-
+Base code is based off the example on PDFKit's documentation: 
+http://pdfkit.org/docs/guide.pdf
 
 Requirements
 ------------
