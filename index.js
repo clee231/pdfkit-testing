@@ -71,5 +71,6 @@ for (i = 0; i < range.count; i++) {
 
 
 
-// end and display the document in the iframe to the right
+// end and output file to the aforementioned pipe above.
+// This code will output the PDF to `output.pdf`.
 doc.end();
