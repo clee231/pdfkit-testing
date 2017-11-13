@@ -65,7 +65,7 @@ var range = doc.bufferedPageRange();
 // Add in pages numbers for all pages within the buffer.
 for (i = 0; i < range.count; i++) {
  doc.switchToPage(i);
- doc.text("Page " + (i+1) + " of " + range.count, 480, 700);
+ doc.text("Page " + (i+1) + " of " + range.count, 480, 50);
 }
 
 
