@@ -1,0 +1,15 @@
+{
+  "name": "pdf-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clee231",
+  "license": "MIT",
+  "dependencies": {
+    "lorem-ipsum": "^1.0.4",
+    "pdfkit": "^0.8.3"
+  }
+}
